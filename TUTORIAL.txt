@@ -1,0 +1,11 @@
+TUTORIAL
+
+localhost/UTS_FebrynaShalsabillaWibowo/login.php
+email : admin@gmail.com
+password : admin
+
+nama database : uts
+
+
+NAMA		: FEBRYNA SHALSABILLA WIBOWO
+NIM		: 20.01.4535
